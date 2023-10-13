@@ -9,20 +9,21 @@ sites:
     url: https://platform.jsonsilo.com
     headers:
       - "Content-Type: application/json"
-    body: '{"message":"The JSONsilo.com API platform is up and running! 🚀"}'
+    body: '{"message":"The JSONsilo.com API platform is up and runningsss! 🚀"}'
   - name: API
     url: https://api.jsonsilo.com
     headers:
       - "Content-Type: application/json"
-    body: '{"message":"The JSONsilo.com API is up and running! 🚀"}'
+    body: '{"message":"The JSONsilo.com API is up and runningsasad! 🚀"}'
 
 status-website:
-  theme: ocean
+  theme: light
+  favicon: https://jsonsilo.com/ms-icon-310x310.png
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.jsonsilo.com
   # baseUrl: /your-repo-name
-  logoUrl: https://jsonsilo.com/ms-icon-310x310.png
+  # logoUrl: https://jsonsilo.com/ms-icon-310x310.png
   name: JSONSilo.com Status
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
@@ -34,6 +35,7 @@ status-website:
 
 workflowSchedule:
   graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
