@@ -7,14 +7,8 @@ sites:
     url: https://jsonsilo.com
   - name: Platform API
     url: https://platform.jsonsilo.com
-    headers:
-      - "Content-Type: application/json"
-    body: '{"message":"The JSONsilo.com API platform is up and runningsss! 🚀"}'
   - name: API
     url: https://api.jsonsilo.com
-    headers:
-      - "Content-Type: application/json"
-    body: '{"message":"The JSONsilo.com API is up and runningsasad! 🚀"}'
 
 status-website:
   theme: light
