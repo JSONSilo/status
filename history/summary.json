@@ -6,8 +6,8 @@
     "slug": "json-silo-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 455,
@@ -15,42 +15,48 @@
     "timeWeek": 436,
     "timeMonth": 455,
     "timeYear": 455,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-10": 1
+    }
   },
   {
     "name": "Platform API",
     "url": "https://platform.jsonsilo.com",
     "icon": "https://icons.duckduckgo.com/ip3/platform.jsonsilo.com.ico",
     "slug": "platform-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 416,
-    "timeWeek": 457,
-    "timeMonth": 444,
-    "timeYear": 436,
-    "dailyMinutesDown": {}
+    "time": 535,
+    "timeDay": 3633,
+    "timeWeek": 1256,
+    "timeMonth": 651,
+    "timeYear": 535,
+    "dailyMinutesDown": {
+      "2023-12-10": 0
+    }
   },
   {
     "name": "API",
     "url": "https://api.jsonsilo.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.jsonsilo.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 398,
-    "timeWeek": 423,
-    "timeMonth": 433,
-    "timeYear": 432,
-    "dailyMinutesDown": {}
+    "time": 498,
+    "timeDay": 2572,
+    "timeWeek": 964,
+    "timeMonth": 572,
+    "timeYear": 498,
+    "dailyMinutesDown": {
+      "2023-12-10": 0
+    }
   }
 ]
