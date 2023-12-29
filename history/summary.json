@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.75%",
-    "time": 461,
-    "timeDay": 405,
+    "time": 460,
+    "timeDay": 420,
     "timeWeek": 446,
-    "timeMonth": 453,
-    "timeYear": 461,
+    "timeMonth": 455,
+    "timeYear": 460,
     "dailyMinutesDown": {
       "2023-12-10": 269
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.39%",
     "uptimeYear": "99.75%",
-    "time": 514,
-    "timeDay": 325,
-    "timeWeek": 425,
+    "time": 513,
+    "timeDay": 424,
+    "timeWeek": 429,
     "timeMonth": 637,
-    "timeYear": 514,
+    "timeYear": 513,
     "dailyMinutesDown": {
       "2023-12-10": 269
     }
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.jsonsilo.com.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.39%",
-    "uptimeYear": "99.75%",
+    "uptimeYear": "99.76%",
     "time": 485,
-    "timeDay": 364,
-    "timeWeek": 409,
-    "timeMonth": 563,
+    "timeDay": 430,
+    "timeWeek": 410,
+    "timeMonth": 565,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2023-12-10": 269
