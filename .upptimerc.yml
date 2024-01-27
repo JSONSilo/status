@@ -7,9 +7,11 @@ sites:
     url: https://jsonsilo.com
   - name: Platform API
     url: https://platform.jsonsilo.com
-  - name: API
+  - name: API (EU)
     url: https://api.jsonsilo.com
-
+  - name: API (SG-01)
+    url: https://sg-01-api.jsonsilo.com/
+    
 status-website:
   theme: light
   favicon: https://jsonsilo.com/ms-icon-310x310.png
