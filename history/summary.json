@@ -4,7 +4,7 @@
     "url": "https://jsonsilo.com",
     "icon": "https://icons.duckduckgo.com/ip3/jsonsilo.com.ico",
     "slug": "json-silo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 461,
     "timeYear": 542,
     "dailyMinutesDown": {
+      "2024-04-26": 0,
       "2023-12-10": 269
     }
   },
