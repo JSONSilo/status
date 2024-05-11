@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jsonsilo.com.ico",
     "slug": "json-silo-com",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 533,
-    "timeDay": 342,
-    "timeWeek": 411,
-    "timeMonth": 449,
-    "timeYear": 533,
+    "uptimeYear": "99.90%",
+    "time": 532,
+    "timeDay": 386,
+    "timeWeek": 408,
+    "timeMonth": 444,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2024-04-26": 48,
       "2023-12-10": 269
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.89%",
-    "time": 505,
-    "timeDay": 413,
-    "timeWeek": 400,
-    "timeMonth": 636,
-    "timeYear": 505,
+    "time": 504,
+    "timeDay": 377,
+    "timeWeek": 395,
+    "timeMonth": 630,
+    "timeYear": 504,
     "dailyMinutesDown": {
       "2024-04-26": 60,
       "2023-12-10": 269
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
-    "time": 488,
-    "timeDay": 380,
+    "time": 487,
+    "timeDay": 372,
     "timeWeek": 390,
-    "timeMonth": 594,
-    "timeYear": 488,
+    "timeMonth": 589,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2024-04-26": 57
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 766,
-    "timeDay": 829,
+    "time": 767,
+    "timeDay": 804,
     "timeWeek": 791,
-    "timeMonth": 765,
-    "timeYear": 766,
+    "timeMonth": 768,
+    "timeYear": 767,
     "dailyMinutesDown": {}
   }
 ]
