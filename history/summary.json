@@ -66,9 +66,9 @@
     "url": "https://sg-01-api.jsonsilo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sg-01-api.jsonsilo.com.ico",
     "slug": "api-sg-01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,6 +77,8 @@
     "timeWeek": 776,
     "timeMonth": 797,
     "timeYear": 765,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-24": 0
+    }
   }
 ]
