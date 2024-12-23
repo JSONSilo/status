@@ -10,14 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 511,
-    "timeDay": 171,
-    "timeWeek": 268,
-    "timeMonth": 363,
-    "timeYear": 523,
+    "time": 509,
+    "timeDay": 155,
+    "timeWeek": 227,
+    "timeMonth": 341,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2024-04-26": 48
     }
+  },
+  {
+    "name": "Console",
+    "url": "https://console.jsonsilo.com/signin",
+    "icon": "https://icons.duckduckgo.com/ip3/console.jsonsilo.com.ico",
+    "slug": "console",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 481,
+    "timeDay": 481,
+    "timeWeek": 481,
+    "timeMonth": 481,
+    "timeYear": 481,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Platform API",
@@ -31,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 485,
-    "timeDay": 507,
+    "timeDay": 443,
     "timeWeek": 462,
-    "timeMonth": 457,
+    "timeMonth": 455,
     "timeYear": 476,
     "dailyMinutesDown": {
       "2024-04-26": 60
@@ -51,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 472,
-    "timeDay": 550,
-    "timeWeek": 419,
-    "timeMonth": 422,
+    "timeDay": 471,
+    "timeWeek": 433,
+    "timeMonth": 427,
     "timeYear": 472,
     "dailyMinutesDown": {
       "2024-04-26": 57
@@ -61,7 +79,7 @@
   },
   {
     "name": "API (SG-01)",
-    "url": "https://sg-01-api.jsonsilo.com/",
+    "url": "https://sg-01-api.jsonsilo.com",
     "icon": "https://icons.duckduckgo.com/ip3/sg-01-api.jsonsilo.com.ico",
     "slug": "api-sg-01",
     "status": "up",
@@ -71,13 +89,31 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 771,
-    "timeDay": 666,
-    "timeWeek": 774,
-    "timeMonth": 775,
+    "timeDay": 763,
+    "timeWeek": 766,
+    "timeMonth": 774,
     "timeYear": 771,
     "dailyMinutesDown": {
       "2024-07-25": 17,
       "2024-07-24": 40
     }
+  },
+  {
+    "name": "API (USC-01)",
+    "url": "https://usc-01-api.jsonsilo.com",
+    "icon": "https://icons.duckduckgo.com/ip3/usc-01-api.jsonsilo.com.ico",
+    "slug": "api-usc-01",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 216,
+    "timeDay": 216,
+    "timeWeek": 216,
+    "timeMonth": 216,
+    "timeYear": 216,
+    "dailyMinutesDown": {}
   }
 ]
