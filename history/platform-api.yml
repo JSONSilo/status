@@ -1,7 +1,7 @@
 url: https://platform.jsonsilo.com
-status: up
-code: 200
-responseTime: 370
-lastUpdated: 2025-06-20T17:44:44.482Z
+status: down
+code: 502
+responseTime: 553
+lastUpdated: 2025-06-20T19:33:01.460Z
 startTime: 2023-10-13T17:54:08.655Z
 generator: Upptime <https://github.com/upptime/upptime>
