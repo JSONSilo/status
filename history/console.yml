@@ -1,7 +1,7 @@
 url: https://console.jsonsilo.com/signin
-status: down
-code: 500
-responseTime: 99
-lastUpdated: 2025-11-18T15:35:23.816Z
+status: up
+code: 200
+responseTime: 1206
+lastUpdated: 2025-11-18T15:50:30.214Z
 startTime: 2024-12-23T00:59:17.207Z
 generator: Upptime <https://github.com/upptime/upptime>
